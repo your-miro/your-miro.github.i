@@ -9,7 +9,7 @@ order: 4
 University City, Sharjah (Aug 2024–Present)
 </span>
 
-< This compilation of my work serves as a means for documenting the work rather than being a portfolio. Little effort will be made with regards to exagerating the achievements of the documented work. Finally, No guarantee is made on the correctness of the aforementioned work.
+> This compilation of my work serves as a means for documenting the work rather than being a portfolio. Little effort will be made with regards to exagerating the achievements of the documented work. Finally, No guarantee is made on the correctness of the aforementioned work.
 {: .prompt-info }
 
 That being said, all work on this website entails concepts in RF/microwave engineering and machine learning, designing and benchmarking transmitter chains while operating RF measurement rigs and connectorized components. My day-to-day spans system modeling, test automation, and telecom subsystem analysis, with a focus on spectral efficiency, signal integrity, and repeatable lab workflows.
