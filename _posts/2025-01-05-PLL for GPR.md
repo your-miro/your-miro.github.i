@@ -8,16 +8,9 @@ description: >-
   linearization, digital predistortion (DPD), PCB design considerations,
   and system benchmarking techniques used in modern radar and wireless
   communication hardware.
-image:
-  path: assets/img/PLL.png
-  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 ## Overview (TL;DR)
 
 This post introduces the fundamental concepts behind RF power amplifier
 design and digital predistortion (DPD), with a focus on practical
 implementation and real-world system benchmarking…
-![](/assets/images/20.png)
-## B
-fefe

@@ -102,7 +102,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'assets\img\kicad-hackrfone.jpg'
+avatar: '![alt]({{ "/assets/img/kicad-hackrfone.jpg" | relative_url }})'
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -155,11 +155,6 @@ paginate: 10
 
 # The base URL of your site
 baseurl: ""
-
-name: HTMLProofer
-run: htmlproofer ./_site --disable-external
-continue-on-error: true   # lets deploy continue even if links fail
-
 
 # ------------ The following options are not recommended to be modified ------------------
 
