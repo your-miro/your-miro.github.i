@@ -156,6 +156,11 @@ paginate: 10
 # The base URL of your site
 baseurl: ""
 
+name: HTMLProofer
+run: htmlproofer ./_site --disable-external
+continue-on-error: true   # lets deploy continue even if links fail
+
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
