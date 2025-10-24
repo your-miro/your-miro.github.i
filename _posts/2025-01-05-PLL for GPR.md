@@ -9,7 +9,7 @@ description: >-
   and system benchmarking techniques used in modern radar and wireless
   communication hardware.
 image:
-  path: assets/img/PLL.png
+  path: assets/img/PLL for GPR/PLL.png
   alt: Figure of PLL
 ---
 
